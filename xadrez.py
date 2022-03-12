@@ -94,4 +94,4 @@ def criarTabuleiro(x: int, y: int, valor) -> list:
         matriz.append(linhas)
     return matriz
 
-print(MatrixChallenge(["(1,1)", "(3,7)"]))
+print(MatrixChallenge(["(4,4)", "(6,6)"]))
